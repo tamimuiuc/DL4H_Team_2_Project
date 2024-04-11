@@ -13,5 +13,4 @@ The MIMIC-III (Medical Information Mart for Intensive Care III) is a large, free
 4. **Download the Data**: Once your request is approved, you can download the data directly from the PhysioNet website.
 
 ## Using the Data in This Project
-The data used in this project includes various processed subsets and derived data frames necessary for the analysis presented. Due to the terms of use of the MIMIC-III dataset, these files cannot be shared publicly but can be reproduced using the scripts provided in the `notebook/` directory of this repository.
-
+The data used in this project includes various processed subsets and derived data frames necessary for the analysis presented. Due to the terms of use of the MIMIC-III dataset, these files cannot be shared publicly.
