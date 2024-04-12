@@ -13,6 +13,10 @@ Sepsis remains a significant challenge in healthcare due to its high mortality r
 ## Data Source
 The dataset is derived from the MIMIC-III V1.4 database, encompassing de-identified data of patients admitted to ICUs at Beth Israel Deaconess Medical Center from 2001 to 2012. The study utilizes a subset of this data, following IRB approval, to ensure ethical compliance and data privacy.
 
+## Supplemental Data Information
+The supplemental information of the paper "Predicting 30-days mortality for MIMIC-III patients with sepsis-3: a machine learning approach using XGBoost" includes additional data files that complement the MIMIC-III dataset. These files are helpful for understanding specific aspects of the analysis or for conducting further research. The supplemental information can be accessed at:
+[Translational Medicine Article Supplemental Information](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02620-5#Sec14)
+
 ## Methodology
 The project methodology includes:
 - **Data Preprocessing**: Handling missing values, feature selection based on the original study, and data normalization.
@@ -36,7 +40,6 @@ The project methodology includes:
 ## Future Work
 - Further exploration of feature importance and model interpretability.
 - Integration of the project with the PyHealth library for broader application in healthcare analytics.
-- Potential development of a web-based tool for real-time mortality risk assessment in ICUs.
 
 ## Contributions to PyHealth
 Plans include contributing datasets, tasks, and machine learning models developed during this project to the PyHealth repository, promoting open-source collaboration in healthcare analytics.
