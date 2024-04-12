@@ -12,5 +12,9 @@ The MIMIC-III (Medical Information Mart for Intensive Care III) is a large, free
 
 4. **Download the Data**: Once your request is approved, you can download the data directly from the PhysioNet website.
 
+## Supplemental Data Information
+The supplemental information of the paper "Predicting 30-days mortality for MIMIC-III patients with sepsis-3: a machine learning approach using XGBoost" includes additional data files that complement the MIMIC-III dataset. These files are helpful for understanding specific aspects of the analysis or for conducting further research. The supplemental information can be accessed at:
+[Translational Medicine Article Supplemental Information](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02620-5#Sec14)
+
 ## Using the Data in This Project
 The data used in this project includes various processed subsets and derived data frames necessary for the analysis presented. Due to the terms of use of the MIMIC-III dataset, these files cannot be shared publicly.
