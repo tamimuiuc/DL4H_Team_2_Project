@@ -38,7 +38,7 @@ The project methodology includes:
 3. Run the Jupyter Notebook to replicate the experiment or utilize the pre-trained models for evaluation.
 
 ## Future Work
-- Further exploration of feature importance and model interpretability.
+- In the next phase of our project, we will focus on completing the final report and video presentation.
 - Integration of the project with the PyHealth library for broader application in healthcare analytics.
 
 ## Contributions to PyHealth
