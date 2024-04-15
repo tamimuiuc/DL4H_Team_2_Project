@@ -30,7 +30,7 @@ The project methodology includes:
 ## Repository Structure
 - `notebook/DL4H_Team_2_Jupyter_Notebook_template.ipynb`: Main project notebook detailing the workflow from data preprocessing to model evaluation.
 - `models/`: Contains trained models (XGBoost, Logistic Regression, Random Forest) for reproducibility.
-- `data/`: Directory for processed datasets (due to privacy concerns, actual patient data is not included).
+- `data/`: Directory for processed datasets (note: The data in the supplemental information of the paper can be found at: https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02620-5#Sec14).
 
 ## Usage
 1. Clone the repository to your local machine or Google Colab environment.
