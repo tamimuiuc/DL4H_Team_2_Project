@@ -37,8 +37,10 @@ The project methodology includes:
 3. Run the Jupyter Notebook to replicate the experiment or utilize the pre-trained models for evaluation.
 
 ## Video Presentation
-For a detailed walkthrough of the project and its outcomes, please view the video presentation:
-[Watch the Project Video Presentation on YouTube](https://youtu.be/VORFSvWzAJE)
+For a detailed walkthrough of the project and its outcomes, please view the video presentation. Click the thumbnail below to watch the video:
+
+[![Watch the Project Video Presentation on YouTube](https://github.com/tamimuiuc/DL4H_Team_2_Project/blob/main/data/youtubethimpnul.jpg)](https://youtu.be/VORFSvWzAJE)
+
 
 ## References
 Hou, N., Li, M., Hé, L., Xie, B., Wang, L., Zhang, R., Yan, Y., Sun, X., Pan, Z., & Wang, K. (2020, December 1). Predicting 30-days mortality for MIMIC-III patients with sepsis-3: a machine learning approach using XGboost. Journal of Translational Medicine.
