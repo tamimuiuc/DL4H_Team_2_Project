@@ -39,7 +39,7 @@ The project methodology includes:
 ## Video Presentation
 For a detailed walkthrough of the project and its outcomes, please view the video presentation. Click the thumbnail below to watch the video:
 
-[![Watch the Project Video Presentation on YouTube](https://github.com/tamimuiuc/DL4H_Team_2_Project/blob/main/data/youtubethimpnul.jpg)](https://youtu.be/VORFSvWzAJE)
+[![Watch the Project Video Presentation on YouTube](https://github.com/tamimuiuc/DL4H_Team_2_Project/blob/main/data/youtubethumbnail.jpg)](https://youtu.be/VORFSvWzAJE)
 
 
 ## References
